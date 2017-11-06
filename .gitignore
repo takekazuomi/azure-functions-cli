@@ -25,3 +25,7 @@ build/
 deploy/
 dist/
 buildtools/
+
+.paket/Paket.Restore.targets
+.psenvrc
+paket-files/
